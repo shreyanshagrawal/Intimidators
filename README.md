@@ -1,3 +1,6 @@
+Deployment url:
+https://intimidator-8u3j.vercel.app
+
        HPCL Intel – AI-Powered Sales Intelligence Platform
 HPCL Intel is an AI-driven sales intelligence and lead prioritization system
 designed for large energy enterprises to identify, qualify, and convert
