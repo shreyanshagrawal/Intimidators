@@ -1,0 +1,1901 @@
+[
+  {
+    "lead_id": "D6E07EA5A957",
+    "company_name": "Indian Navy",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/IN2026001",
+    "products_recommended": [
+      "Marine Bunker Fuels",
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 1.0,
+      "Diesel": 0.85
+    },
+    "industry_sector": "shipping",
+    "location": "Mumbai",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "bunker fuel",
+      "marine",
+      "naval vessels",
+      "diesel"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.93,
+    "overall_score": 0.83,
+    "title": "Marine Fuel Supply for Naval Vessels - Mumbai Port",
+    "description": "Annual contract for supply of bunker fuel and marine diesel to Indian Navy vessels at Mumbai Port. High-quality fuel required for fleet operations.",
+    "deadline": "2026-03-05T08:41:34.124286",
+    "estimated_value": 45000000.0,
+    "tender_id": "IN2026001",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Marine Bunker Fuels, Diesel requirements",
+    "discovery_date": "2026-02-07T10:41:34.124299",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Marine Fuel Supply for Naval Vessels - Mumbai Port - Annual contract for supply of bunker fuel and marine diesel to Indian Navy vessels at Mumbai Port. High-quality fuel required for fleet operations."
+  },
+  {
+    "lead_id": "9203EED0F8F6",
+    "company_name": "Shipping Corporation of India",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/SCI2026012",
+    "products_recommended": [
+      "Marine Bunker Fuels"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 0.95
+    },
+    "industry_sector": "shipping",
+    "location": "Chennai",
+    "facility_type": "port",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "bunker fuel",
+      "marine fuel",
+      "vessel fuel"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.95,
+    "overall_score": 0.73,
+    "title": "Bunker Fuel Supply Contract - Chennai Port",
+    "description": "Supply of marine bunker fuel for cargo vessels operating from Chennai Port. Long-term supply agreement.",
+    "deadline": "2026-03-15T08:41:34.124410",
+    "estimated_value": 32000000.0,
+    "tender_id": "SCI2026012",
+    "next_action": "Contact procurement team to discuss Marine Bunker Fuels supply requirements",
+    "discovery_date": "2026-02-06T06:41:34.124412",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Bunker Fuel Supply Contract - Chennai Port - Supply of marine bunker fuel for cargo vessels operating from Chennai Port. Long-term supply agreement."
+  },
+  {
+    "lead_id": "77A381AD5957",
+    "company_name": "Cochin Port Trust",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/CPT2026018",
+    "products_recommended": [
+      "Marine Bunker Fuels",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 0.9,
+      "Lubricants": 0.8
+    },
+    "industry_sector": "shipping",
+    "location": "Kochi",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "maintenance"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "bunker",
+      "marine lubricants",
+      "ship fuel"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.85,
+    "overall_score": 0.77,
+    "title": "Marine Fuel and Lubricants - Cochin Port",
+    "description": "Procurement of marine bunker fuel and specialized lubricants for port operations and vessel servicing.",
+    "deadline": "2026-03-20T08:41:34.124431",
+    "estimated_value": 18500000.0,
+    "tender_id": "CPT2026018",
+    "next_action": "Contact procurement team to discuss Marine Bunker Fuels, Lubricants supply requirements",
+    "discovery_date": "2026-02-08T00:41:34.124432",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Marine Fuel and Lubricants - Cochin Port - Procurement of marine bunker fuel and specialized lubricants for port operations and vessel servicing."
+  },
+  {
+    "lead_id": "5CB62E5D72CC",
+    "company_name": "Visakhapatnam Port Trust",
+    "source_type": "tender",
+    "source_url": "https://mahatenders.gov.in/tender/VPT2026024",
+    "products_recommended": [
+      "Marine Bunker Fuels",
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 1.0,
+      "Diesel": 0.9
+    },
+    "industry_sector": "shipping",
+    "location": "Visakhapatnam",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "bunker fuel",
+      "marine diesel",
+      "port expansion"
+    ],
+    "urgency_score": 0.8,
+    "confidence_score": 0.95,
+    "overall_score": 0.88,
+    "title": "Fuel Supply for Port Expansion Project",
+    "description": "Marine bunker fuel and diesel supply for expanded port operations. Part of major infrastructure development.",
+    "deadline": "2026-02-28T08:41:34.124444",
+    "estimated_value": 52000000.0,
+    "tender_id": "VPT2026024",
+    "next_action": "High-priority: Engage with expansion project team for Marine Bunker Fuels, Diesel supply opportunity",
+    "discovery_date": "2026-02-05T16:41:34.124445",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Supply for Port Expansion Project - Marine bunker fuel and diesel supply for expanded port operations. Part of major infrastructure development."
+  },
+  {
+    "lead_id": "9561FBB5C8F5",
+    "company_name": "Paradip Port Authority",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/PPA2026031",
+    "products_recommended": [
+      "Marine Bunker Fuels"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 0.95
+    },
+    "industry_sector": "shipping",
+    "location": "Paradip",
+    "facility_type": "port",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "bunker fuel",
+      "maritime fuel",
+      "vessel supply"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 0.95,
+    "overall_score": 0.7,
+    "title": "Maritime Fuel Supply - Paradip Port",
+    "description": "Annual maritime fuel supply contract for commercial vessels and port equipment.",
+    "deadline": "2026-03-25T08:41:34.124454",
+    "estimated_value": 28000000.0,
+    "tender_id": "PPA2026031",
+    "next_action": "Contact procurement team to discuss Marine Bunker Fuels supply requirements",
+    "discovery_date": "2026-02-06T18:41:34.124454",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Maritime Fuel Supply - Paradip Port - Annual maritime fuel supply contract for commercial vessels and port equipment."
+  },
+  {
+    "lead_id": "4069C9948459",
+    "company_name": "Kandla Port Trust",
+    "source_type": "tender",
+    "source_url": "https://www.nprocure.com/tender/KPT2026037",
+    "products_recommended": [
+      "Marine Bunker Fuels",
+      "Fuel Oil"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 0.9,
+      "Fuel Oil": 0.85
+    },
+    "industry_sector": "shipping",
+    "location": "Kandla",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "bunker",
+      "fuel oil",
+      "marine operations"
+    ],
+    "urgency_score": 0.9,
+    "confidence_score": 0.88,
+    "overall_score": 0.87,
+    "title": "Urgent Fuel Supply - Kandla Port Operations",
+    "description": "Urgent requirement for marine bunker fuel and fuel oil for port machinery and vessel operations.",
+    "deadline": "2026-02-20T08:41:34.124463",
+    "estimated_value": 35000000.0,
+    "tender_id": "KPT2026037",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Marine Bunker Fuels, Fuel Oil requirements",
+    "discovery_date": "2026-02-06T14:41:34.124464",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Urgent Fuel Supply - Kandla Port Operations - Urgent requirement for marine bunker fuel and fuel oil for port machinery and vessel operations."
+  },
+  {
+    "lead_id": "B5E19207E300",
+    "company_name": "Great Eastern Shipping",
+    "source_type": "tender",
+    "source_url": "https://vendorportal.jsw.in/tender/GES2026043",
+    "products_recommended": [
+      "Marine Bunker Fuels"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 1.0
+    },
+    "industry_sector": "shipping",
+    "location": "Mumbai",
+    "facility_type": null,
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "bunker fuel",
+      "ship fuel",
+      "fleet supply"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 1.0,
+    "overall_score": 0.73,
+    "title": "Fleet Bunker Fuel Supply Contract",
+    "description": "Bunker fuel supply for commercial shipping fleet across multiple Indian ports.",
+    "deadline": "2026-03-30T08:41:34.124471",
+    "estimated_value": 65000000.0,
+    "tender_id": "GES2026043",
+    "next_action": "Contact procurement team to discuss Marine Bunker Fuels supply requirements",
+    "discovery_date": "2026-02-07T11:41:34.124472",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fleet Bunker Fuel Supply Contract - Bunker fuel supply for commercial shipping fleet across multiple Indian ports."
+  },
+  {
+    "lead_id": "A6C262DEAE87",
+    "company_name": "Adani Ports - Mundra",
+    "source_type": "tender",
+    "source_url": "https://www.nprocure.com/tender/APM2026048",
+    "products_recommended": [
+      "Marine Bunker Fuels",
+      "Diesel",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 0.95,
+      "Diesel": 0.9,
+      "Lubricants": 0.75
+    },
+    "industry_sector": "shipping",
+    "location": "Mundra",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "maintenance"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "bunker",
+      "diesel",
+      "lube oil",
+      "port operations"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.87,
+    "overall_score": 0.8,
+    "title": "Comprehensive Fuel Supply - Mundra Port",
+    "description": "Complete fuel and lubricant supply package for port operations including bunker fuel, diesel, and lubricants.",
+    "deadline": "2026-03-10T08:41:34.124480",
+    "estimated_value": 78000000.0,
+    "tender_id": "APM2026048",
+    "next_action": "Contact procurement team to discuss Marine Bunker Fuels, Diesel, Lubricants supply requirements",
+    "discovery_date": "2026-02-07T22:41:34.124480",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Comprehensive Fuel Supply - Mundra Port - Complete fuel and lubricant supply package for port operations including bunker fuel, diesel, and lubricants."
+  },
+  {
+    "lead_id": "7FFED8DB17FA",
+    "company_name": "Jawaharlal Nehru Port Trust",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/JNPT2026054",
+    "products_recommended": [
+      "Marine Bunker Fuels"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 1.0
+    },
+    "industry_sector": "shipping",
+    "location": "Navi Mumbai",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "bunker fuel",
+      "marine fuel",
+      "container terminal"
+    ],
+    "urgency_score": 0.8,
+    "confidence_score": 1.0,
+    "overall_score": 0.9,
+    "title": "Marine Fuel for Container Terminal Operations",
+    "description": "Large-scale marine fuel supply for expanded container terminal operations at JNPT.",
+    "deadline": "2026-02-26T08:41:34.124487",
+    "estimated_value": 95000000.0,
+    "tender_id": "JNPT2026054",
+    "next_action": "High-priority: Engage with expansion project team for Marine Bunker Fuels supply opportunity",
+    "discovery_date": "2026-02-07T10:41:34.124488",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Marine Fuel for Container Terminal Operations - Large-scale marine fuel supply for expanded container terminal operations at JNPT."
+  },
+  {
+    "lead_id": "B86CAD20A6A5",
+    "company_name": "Indian Coast Guard",
+    "source_type": "tender",
+    "source_url": "https://defproc.gov.in/tender/ICG2026059",
+    "products_recommended": [
+      "Marine Bunker Fuels",
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 0.95,
+      "Aviation Fuel": 0.85
+    },
+    "industry_sector": "shipping",
+    "location": "Multiple Locations",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "bunker fuel",
+      "aviation fuel",
+      "coast guard vessels"
+    ],
+    "urgency_score": 0.8,
+    "confidence_score": 0.9,
+    "overall_score": 0.85,
+    "title": "Multi-Location Fuel Supply - Coast Guard",
+    "description": "Marine bunker fuel and aviation fuel supply for Coast Guard vessels and aircraft across coastal stations.",
+    "deadline": "2026-02-23T08:41:34.124495",
+    "estimated_value": 125000000.0,
+    "tender_id": "ICG2026059",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Marine Bunker Fuels, Aviation Fuel requirements",
+    "discovery_date": "2026-02-08T01:41:34.124495",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Multi-Location Fuel Supply - Coast Guard - Marine bunker fuel and aviation fuel supply for Coast Guard vessels and aircraft across coastal stations."
+  },
+  {
+    "lead_id": "387A6F023188",
+    "company_name": "Airports Authority of India",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/AAI2026065",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 1.0
+    },
+    "industry_sector": "aviation",
+    "location": "Delhi",
+    "facility_type": "airport",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "aviation fuel",
+      "atf",
+      "jet fuel"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 1.0,
+    "overall_score": 0.79,
+    "title": "Aviation Turbine Fuel - Delhi Airport",
+    "description": "Long-term ATF supply contract for Delhi International Airport. High-volume requirement.",
+    "deadline": "2026-03-08T08:41:34.124502",
+    "estimated_value": 250000000.0,
+    "tender_id": "AAI2026065",
+    "next_action": "Contact procurement team to discuss Aviation Fuel supply requirements",
+    "discovery_date": "2026-02-05T08:41:34.124502",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Aviation Turbine Fuel - Delhi Airport - Long-term ATF supply contract for Delhi International Airport. High-volume requirement."
+  },
+  {
+    "lead_id": "6E1ACC1DE804",
+    "company_name": "Bangalore International Airport",
+    "source_type": "tender",
+    "source_url": "https://kppp.karnataka.gov.in/tender/BLR2026071",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 1.0
+    },
+    "industry_sector": "aviation",
+    "location": "Bangalore",
+    "facility_type": "airport",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "aviation fuel",
+      "atf",
+      "airport expansion"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 1.0,
+    "overall_score": 0.87,
+    "title": "ATF Supply for Airport Expansion",
+    "description": "Aviation turbine fuel supply for expanded operations at Kempegowda International Airport.",
+    "deadline": "2026-03-02T08:41:34.124509",
+    "estimated_value": 180000000.0,
+    "tender_id": "BLR2026071",
+    "next_action": "High-priority: Engage with expansion project team for Aviation Fuel supply opportunity",
+    "discovery_date": "2026-02-07T02:41:34.124510",
+    "extraction_method": "Tender Parser",
+    "raw_context": "ATF Supply for Airport Expansion - Aviation turbine fuel supply for expanded operations at Kempegowda International Airport."
+  },
+  {
+    "lead_id": "5AF3ABC9D592",
+    "company_name": "Hyderabad Airport",
+    "source_type": "tender",
+    "source_url": "https://etender.up.nic.in/tender/HYD2026077",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 0.95
+    },
+    "industry_sector": "aviation",
+    "location": "Hyderabad",
+    "facility_type": "airport",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "atf",
+      "jet fuel",
+      "aviation"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.95,
+    "overall_score": 0.73,
+    "title": "Jet Fuel Supply - Hyderabad Airport",
+    "description": "Annual aviation turbine fuel supply contract for Rajiv Gandhi International Airport.",
+    "deadline": "2026-03-18T08:41:34.124517",
+    "estimated_value": 145000000.0,
+    "tender_id": "HYD2026077",
+    "next_action": "Contact procurement team to discuss Aviation Fuel supply requirements",
+    "discovery_date": "2026-02-05T08:41:34.124517",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Jet Fuel Supply - Hyderabad Airport - Annual aviation turbine fuel supply contract for Rajiv Gandhi International Airport."
+  },
+  {
+    "lead_id": "5F1BD493C389",
+    "company_name": "Mumbai International Airport",
+    "source_type": "tender",
+    "source_url": "https://mahatenders.gov.in/tender/BOM2026083",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 1.0
+    },
+    "industry_sector": "aviation",
+    "location": "Mumbai",
+    "facility_type": "airport",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "aviation fuel",
+      "atf",
+      "urgent requirement"
+    ],
+    "urgency_score": 0.9,
+    "confidence_score": 1.0,
+    "overall_score": 0.93,
+    "title": "Urgent ATF Requirement - Mumbai Airport",
+    "description": "Urgent aviation fuel requirement for Chhatrapati Shivaji International Airport operations.",
+    "deadline": "2026-02-18T08:41:34.124524",
+    "estimated_value": 320000000.0,
+    "tender_id": "BOM2026083",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Aviation Fuel requirements",
+    "discovery_date": "2026-02-06T17:41:34.124525",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Urgent ATF Requirement - Mumbai Airport - Urgent aviation fuel requirement for Chhatrapati Shivaji International Airport operations."
+  },
+  {
+    "lead_id": "8274645D082A",
+    "company_name": "Chennai Airport",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/MAA2026089",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 0.95
+    },
+    "industry_sector": "aviation",
+    "location": "Chennai",
+    "facility_type": "airport",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "aviation fuel",
+      "atf",
+      "commercial aviation"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 0.95,
+    "overall_score": 0.7,
+    "title": "Aviation Fuel Supply - Chennai Airport",
+    "description": "ATF supply for commercial and cargo flight operations at Chennai International Airport.",
+    "deadline": "2026-03-22T08:41:34.124531",
+    "estimated_value": 135000000.0,
+    "tender_id": "MAA2026089",
+    "next_action": "Contact procurement team to discuss Aviation Fuel supply requirements",
+    "discovery_date": "2026-02-05T18:41:34.124532",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Aviation Fuel Supply - Chennai Airport - ATF supply for commercial and cargo flight operations at Chennai International Airport."
+  },
+  {
+    "lead_id": "57C3A00E9C7C",
+    "company_name": "Indian Air Force",
+    "source_type": "tender",
+    "source_url": "https://defproc.gov.in/tender/IAF2026095",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 1.0
+    },
+    "industry_sector": "aviation",
+    "location": "Multiple Air Bases",
+    "facility_type": "airport",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "aviation fuel",
+      "military aviation",
+      "jet fuel"
+    ],
+    "urgency_score": 0.9,
+    "confidence_score": 1.0,
+    "overall_score": 0.93,
+    "title": "Aviation Fuel for Air Force Bases",
+    "description": "High-grade aviation fuel supply for multiple Air Force bases across India. Critical defense requirement.",
+    "deadline": "2026-02-22T08:41:34.124538",
+    "estimated_value": 450000000.0,
+    "tender_id": "IAF2026095",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Aviation Fuel requirements",
+    "discovery_date": "2026-02-06T19:41:34.124539",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Aviation Fuel for Air Force Bases - High-grade aviation fuel supply for multiple Air Force bases across India. Critical defense requirement."
+  },
+  {
+    "lead_id": "D0B4E99A7497",
+    "company_name": "Kolkata Airport",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/CCU2026101",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 0.9
+    },
+    "industry_sector": "aviation",
+    "location": "Kolkata",
+    "facility_type": "airport",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "atf",
+      "aviation turbine fuel"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.9,
+    "overall_score": 0.71,
+    "title": "ATF Supply Contract - Kolkata Airport",
+    "description": "Aviation turbine fuel supply for Netaji Subhas Chandra Bose International Airport.",
+    "deadline": "2026-03-15T08:41:34.124549",
+    "estimated_value": 98000000.0,
+    "tender_id": "CCU2026101",
+    "next_action": "Contact procurement team to discuss Aviation Fuel supply requirements",
+    "discovery_date": "2026-02-07T16:41:34.124549",
+    "extraction_method": "Tender Parser",
+    "raw_context": "ATF Supply Contract - Kolkata Airport - Aviation turbine fuel supply for Netaji Subhas Chandra Bose International Airport."
+  },
+  {
+    "lead_id": "6D0AE5A7D0AE",
+    "company_name": "Cochin International Airport",
+    "source_type": "tender",
+    "source_url": "https://kppp.karnataka.gov.in/tender/COK2026107",
+    "products_recommended": [
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Aviation Fuel": 1.0
+    },
+    "industry_sector": "aviation",
+    "location": "Kochi",
+    "facility_type": "airport",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "aviation fuel",
+      "atf",
+      "international flights"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 1.0,
+    "overall_score": 0.87,
+    "title": "Aviation Fuel for International Operations",
+    "description": "ATF supply for expanding international flight operations at Cochin International Airport.",
+    "deadline": "2026-03-05T08:41:34.124555",
+    "estimated_value": 165000000.0,
+    "tender_id": "COK2026107",
+    "next_action": "High-priority: Engage with expansion project team for Aviation Fuel supply opportunity",
+    "discovery_date": "2026-02-05T17:41:34.124556",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Aviation Fuel for International Operations - ATF supply for expanding international flight operations at Cochin International Airport."
+  },
+  {
+    "lead_id": "F38BEBE748CA",
+    "company_name": "Indian Railways - Northern Railway",
+    "source_type": "tender",
+    "source_url": "https://www.ireps.gov.in/tender/NR2026113",
+    "products_recommended": [
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0
+    },
+    "industry_sector": "transport",
+    "location": "Delhi",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "hsd",
+      "locomotives"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 1.0,
+    "overall_score": 0.76,
+    "title": "Diesel Supply for Locomotive Operations",
+    "description": "High-speed diesel supply for diesel locomotive operations across Northern Railway network.",
+    "deadline": "2026-03-12T08:41:34.124565",
+    "estimated_value": 85000000.0,
+    "tender_id": "NR2026113",
+    "next_action": "Contact procurement team to discuss Diesel supply requirements",
+    "discovery_date": "2026-02-05T17:41:34.124566",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Diesel Supply for Locomotive Operations - High-speed diesel supply for diesel locomotive operations across Northern Railway network."
+  },
+  {
+    "lead_id": "F24F813A31E4",
+    "company_name": "Indian Railways - Southern Railway",
+    "source_type": "tender",
+    "source_url": "https://www.ireps.gov.in/tender/SR2026119",
+    "products_recommended": [
+      "Diesel",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "Lubricants": 0.9
+    },
+    "industry_sector": "transport",
+    "location": "Chennai",
+    "facility_type": "depot",
+    "signals": [
+      "procurement",
+      "maintenance"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "lubricants",
+      "engine oil",
+      "railway"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.95,
+    "overall_score": 0.82,
+    "title": "Diesel and Lubricants - Southern Railway",
+    "description": "Diesel fuel and specialized lubricants for locomotive maintenance and operations.",
+    "deadline": "2026-03-20T08:41:34.124573",
+    "estimated_value": 72000000.0,
+    "tender_id": "SR2026119",
+    "next_action": "Contact procurement team to discuss Diesel, Lubricants supply requirements",
+    "discovery_date": "2026-02-05T20:41:34.124574",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Diesel and Lubricants - Southern Railway - Diesel fuel and specialized lubricants for locomotive maintenance and operations."
+  },
+  {
+    "lead_id": "168D97537392",
+    "company_name": "Indian Railways - Western Railway",
+    "source_type": "tender",
+    "source_url": "https://www.ireps.gov.in/tender/WR2026125",
+    "products_recommended": [
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Diesel": 0.95
+    },
+    "industry_sector": "transport",
+    "location": "Mumbai",
+    "facility_type": "depot",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "hsd",
+      "urgent requirement"
+    ],
+    "urgency_score": 0.9,
+    "confidence_score": 0.95,
+    "overall_score": 0.91,
+    "title": "Urgent Diesel Requirement - Western Railway",
+    "description": "Urgent diesel supply for Western Railway locomotive and maintenance operations.",
+    "deadline": "2026-02-16T08:41:34.124581",
+    "estimated_value": 95000000.0,
+    "tender_id": "WR2026125",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Diesel requirements",
+    "discovery_date": "2026-02-05T15:41:34.124581",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Urgent Diesel Requirement - Western Railway - Urgent diesel supply for Western Railway locomotive and maintenance operations."
+  },
+  {
+    "lead_id": "7EE60A45877E",
+    "company_name": "Indian Railways - Eastern Railway",
+    "source_type": "tender",
+    "source_url": "https://www.ireps.gov.in/tender/ER2026131",
+    "products_recommended": [
+      "Diesel",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "Lubricants": 0.85
+    },
+    "industry_sector": "transport",
+    "location": "Kolkata",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "lubricants",
+      "railway operations"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 0.93,
+    "overall_score": 0.69,
+    "title": "Fuel and Lubricant Supply - Eastern Railway",
+    "description": "Annual supply contract for diesel and lubricants for Eastern Railway operations.",
+    "deadline": "2026-03-25T08:41:34.124592",
+    "estimated_value": 68000000.0,
+    "tender_id": "ER2026131",
+    "next_action": "Contact procurement team to discuss Diesel, Lubricants supply requirements",
+    "discovery_date": "2026-02-06T12:41:34.124593",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel and Lubricant Supply - Eastern Railway - Annual supply contract for diesel and lubricants for Eastern Railway operations."
+  },
+  {
+    "lead_id": "CAF812D3D86A",
+    "company_name": "Konkan Railway Corporation",
+    "source_type": "tender",
+    "source_url": "https://www.ireps.gov.in/tender/KR2026137",
+    "products_recommended": [
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Diesel": 0.95
+    },
+    "industry_sector": "transport",
+    "location": "Navi Mumbai",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "hsd",
+      "konkan railway"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.95,
+    "overall_score": 0.73,
+    "title": "Diesel Supply - Konkan Railway",
+    "description": "High-speed diesel supply for Konkan Railway locomotive and track maintenance operations.",
+    "deadline": "2026-03-15T08:41:34.124599",
+    "estimated_value": 42000000.0,
+    "tender_id": "KR2026137",
+    "next_action": "Contact procurement team to discuss Diesel supply requirements",
+    "discovery_date": "2026-02-05T09:41:34.124600",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Diesel Supply - Konkan Railway - High-speed diesel supply for Konkan Railway locomotive and track maintenance operations."
+  },
+  {
+    "lead_id": "1455E56C9BB4",
+    "company_name": "Delhi Metro Rail Corporation",
+    "source_type": "tender",
+    "source_url": "https://govtprocurement.delhi.gov.in/tender/DMRC2026143",
+    "products_recommended": [
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Diesel": 0.9
+    },
+    "industry_sector": "transport",
+    "location": "Delhi",
+    "facility_type": "depot",
+    "signals": [
+      "procurement",
+      "maintenance"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "metro",
+      "maintenance equipment"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.9,
+    "overall_score": 0.79,
+    "title": "Diesel for Metro Maintenance Equipment",
+    "description": "Diesel supply for metro maintenance vehicles and emergency generators.",
+    "deadline": "2026-03-18T08:41:34.124606",
+    "estimated_value": 28000000.0,
+    "tender_id": "DMRC2026143",
+    "next_action": "Contact procurement team to discuss Diesel supply requirements",
+    "discovery_date": "2026-02-07T02:41:34.124607",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Diesel for Metro Maintenance Equipment - Diesel supply for metro maintenance vehicles and emergency generators."
+  },
+  {
+    "lead_id": "A5CD1AD5646E",
+    "company_name": "Mumbai Metro",
+    "source_type": "tender",
+    "source_url": "https://mahatenders.gov.in/tender/MM2026149",
+    "products_recommended": [
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Diesel": 0.85
+    },
+    "industry_sector": "transport",
+    "location": "Mumbai",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "low",
+    "keywords_matched": [
+      "diesel",
+      "metro operations"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 0.85,
+    "overall_score": 0.65,
+    "title": "Diesel for Metro Support Equipment",
+    "description": "Diesel supply for Mumbai Metro maintenance and construction equipment.",
+    "deadline": "2026-03-30T08:41:34.124613",
+    "estimated_value": 18000000.0,
+    "tender_id": "MM2026149",
+    "next_action": "Contact procurement team to discuss Diesel supply requirements",
+    "discovery_date": "2026-02-05T17:41:34.124614",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Diesel for Metro Support Equipment - Diesel supply for Mumbai Metro maintenance and construction equipment."
+  },
+  {
+    "lead_id": "84E857A1F1D7",
+    "company_name": "Maharashtra State Road Transport Corporation",
+    "source_type": "tender",
+    "source_url": "https://mahatenders.gov.in/tender/MSRTC2026155",
+    "products_recommended": [
+      "Diesel",
+      "CNG"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "CNG": 0.95
+    },
+    "industry_sector": "transport",
+    "location": "Pune",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "cng",
+      "bus fleet"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.97,
+    "overall_score": 0.78,
+    "title": "Fuel Supply for Bus Fleet - MSRTC",
+    "description": "Diesel and CNG supply for Maharashtra state transport bus fleet operations.",
+    "deadline": "2026-03-10T08:41:34.124628",
+    "estimated_value": 150000000.0,
+    "tender_id": "MSRTC2026155",
+    "next_action": "Contact procurement team to discuss Diesel, CNG supply requirements",
+    "discovery_date": "2026-02-06T20:41:34.124629",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Supply for Bus Fleet - MSRTC - Diesel and CNG supply for Maharashtra state transport bus fleet operations."
+  },
+  {
+    "lead_id": "6D77215351AD",
+    "company_name": "Delhi Transport Corporation",
+    "source_type": "tender",
+    "source_url": "https://govtprocurement.delhi.gov.in/tender/DTC2026161",
+    "products_recommended": [
+      "CNG",
+      "Diesel"
+    ],
+    "product_confidence": {
+      "CNG": 1.0,
+      "Diesel": 0.8
+    },
+    "industry_sector": "transport",
+    "location": "Delhi",
+    "facility_type": "depot",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "cng",
+      "diesel",
+      "bus operations",
+      "expansion"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.9,
+    "overall_score": 0.82,
+    "title": "CNG and Diesel for Expanded Bus Fleet",
+    "description": "Fuel supply for expanded DTC bus fleet with focus on CNG buses.",
+    "deadline": "2026-03-05T08:41:34.124641",
+    "estimated_value": 185000000.0,
+    "tender_id": "DTC2026161",
+    "next_action": "High-priority: Engage with expansion project team for CNG, Diesel supply opportunity",
+    "discovery_date": "2026-02-08T06:41:34.124642",
+    "extraction_method": "Tender Parser",
+    "raw_context": "CNG and Diesel for Expanded Bus Fleet - Fuel supply for expanded DTC bus fleet with focus on CNG buses."
+  },
+  {
+    "lead_id": "8EEBC8632169",
+    "company_name": "Karnataka State Road Transport Corporation",
+    "source_type": "tender",
+    "source_url": "https://kppp.karnataka.gov.in/tender/KSRTC2026167",
+    "products_recommended": [
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0
+    },
+    "industry_sector": "transport",
+    "location": "Bangalore",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "bus fleet",
+      "transport"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 1.0,
+    "overall_score": 0.73,
+    "title": "Diesel Supply - KSRTC Fleet",
+    "description": "Annual diesel supply contract for Karnataka state transport bus operations.",
+    "deadline": "2026-03-22T08:41:34.124649",
+    "estimated_value": 125000000.0,
+    "tender_id": "KSRTC2026167",
+    "next_action": "Contact procurement team to discuss Diesel supply requirements",
+    "discovery_date": "2026-02-06T11:41:34.124650",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Diesel Supply - KSRTC Fleet - Annual diesel supply contract for Karnataka state transport bus operations."
+  },
+  {
+    "lead_id": "8537C543F823",
+    "company_name": "Tamil Nadu State Transport Corporation",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/TNSTC2026173",
+    "products_recommended": [
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Diesel": 0.95
+    },
+    "industry_sector": "transport",
+    "location": "Chennai",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "state transport",
+      "buses"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.95,
+    "overall_score": 0.73,
+    "title": "Diesel Procurement - TNSTC",
+    "description": "Diesel fuel procurement for Tamil Nadu state transport corporation bus fleet.",
+    "deadline": "2026-03-15T08:41:34.124656",
+    "estimated_value": 110000000.0,
+    "tender_id": "TNSTC2026173",
+    "next_action": "Contact procurement team to discuss Diesel supply requirements",
+    "discovery_date": "2026-02-07T03:41:34.124657",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Diesel Procurement - TNSTC - Diesel fuel procurement for Tamil Nadu state transport corporation bus fleet."
+  },
+  {
+    "lead_id": "089903A62B8E",
+    "company_name": "Gujarat State Road Transport Corporation",
+    "source_type": "tender",
+    "source_url": "https://www.nprocure.com/tender/GSRTC2026179",
+    "products_recommended": [
+      "Diesel",
+      "CNG"
+    ],
+    "product_confidence": {
+      "Diesel": 0.9,
+      "CNG": 0.9
+    },
+    "industry_sector": "transport",
+    "location": "Ahmedabad",
+    "facility_type": "depot",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "cng",
+      "bus operations"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.9,
+    "overall_score": 0.71,
+    "title": "Dual Fuel Supply - GSRTC",
+    "description": "Diesel and CNG supply for Gujarat state transport bus fleet across multiple depots.",
+    "deadline": "2026-03-13T08:41:34.124664",
+    "estimated_value": 145000000.0,
+    "tender_id": "GSRTC2026179",
+    "next_action": "Contact procurement team to discuss Diesel, CNG supply requirements",
+    "discovery_date": "2026-02-06T09:41:34.124664",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Dual Fuel Supply - GSRTC - Diesel and CNG supply for Gujarat state transport bus fleet across multiple depots."
+  },
+  {
+    "lead_id": "7DBB61A9CDB0",
+    "company_name": "Uttar Pradesh State Road Transport Corporation",
+    "source_type": "tender",
+    "source_url": "https://etender.up.nic.in/tender/UPSRTC2026185",
+    "products_recommended": [
+      "Diesel",
+      "CNG"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "CNG": 0.85
+    },
+    "industry_sector": "transport",
+    "location": "Lucknow",
+    "facility_type": "depot",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "cng",
+      "urgent",
+      "bus fleet"
+    ],
+    "urgency_score": 0.9,
+    "confidence_score": 0.93,
+    "overall_score": 0.89,
+    "title": "Urgent Fuel Requirement - UPSRTC",
+    "description": "Urgent diesel and CNG requirement for UP state transport bus operations.",
+    "deadline": "2026-02-20T08:41:34.124673",
+    "estimated_value": 175000000.0,
+    "tender_id": "UPSRTC2026185",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Diesel, CNG requirements",
+    "discovery_date": "2026-02-05T08:41:34.124674",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Urgent Fuel Requirement - UPSRTC - Urgent diesel and CNG requirement for UP state transport bus operations."
+  },
+  {
+    "lead_id": "A7973BCD1A80",
+    "company_name": "NTPC Limited - Dadri",
+    "source_type": "tender",
+    "source_url": "https://eprocurentpc.nic.in/tender/NTPC2026191",
+    "products_recommended": [
+      "Fuel Oil",
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Fuel Oil": 1.0,
+      "Diesel": 0.85
+    },
+    "industry_sector": "energy",
+    "location": "Greater Noida",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "fuel oil",
+      "furnace oil",
+      "diesel",
+      "power plant"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.93,
+    "overall_score": 0.75,
+    "title": "Fuel Oil for Power Generation - Dadri",
+    "description": "Furnace oil and diesel supply for NTPC thermal power plant operations.",
+    "deadline": "2026-03-08T08:41:34.124684",
+    "estimated_value": 220000000.0,
+    "tender_id": "NTPC2026191",
+    "next_action": "Contact procurement team to discuss Fuel Oil, Diesel supply requirements",
+    "discovery_date": "2026-02-06T08:41:34.124684",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Oil for Power Generation - Dadri - Furnace oil and diesel supply for NTPC thermal power plant operations."
+  },
+  {
+    "lead_id": "6D2C9B95B1B1",
+    "company_name": "NTPC Limited - Ramagundam",
+    "source_type": "tender",
+    "source_url": "https://eprocurentpc.nic.in/tender/NTPC2026197",
+    "products_recommended": [
+      "Fuel Oil"
+    ],
+    "product_confidence": {
+      "Fuel Oil": 0.95
+    },
+    "industry_sector": "energy",
+    "location": "Telangana",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "fuel oil",
+      "power generation"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.95,
+    "overall_score": 0.73,
+    "title": "Furnace Oil Supply - Ramagundam Plant",
+    "description": "Furnace oil procurement for thermal power generation at Ramagundam plant.",
+    "deadline": "2026-03-18T08:41:34.125030",
+    "estimated_value": 185000000.0,
+    "tender_id": "NTPC2026197",
+    "next_action": "Contact procurement team to discuss Fuel Oil supply requirements",
+    "discovery_date": "2026-02-05T09:41:34.125039",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Furnace Oil Supply - Ramagundam Plant - Furnace oil procurement for thermal power generation at Ramagundam plant."
+  },
+  {
+    "lead_id": "AFE252762639",
+    "company_name": "Tata Power - Trombay",
+    "source_type": "tender",
+    "source_url": "https://www.tatapower.com/tender/TTP2026203",
+    "products_recommended": [
+      "Fuel Oil",
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Fuel Oil": 0.9,
+      "Diesel": 0.8
+    },
+    "industry_sector": "energy",
+    "location": "Mumbai",
+    "facility_type": "plant",
+    "signals": [
+      "procurement",
+      "maintenance"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "fuel oil",
+      "diesel",
+      "power plant"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.85,
+    "overall_score": 0.77,
+    "title": "Fuel Supply - Trombay Power Plant",
+    "description": "Fuel oil and diesel for power generation and plant maintenance operations.",
+    "deadline": "2026-03-15T08:41:34.125066",
+    "estimated_value": 95000000.0,
+    "tender_id": "TTP2026203",
+    "next_action": "Contact procurement team to discuss Fuel Oil, Diesel supply requirements",
+    "discovery_date": "2026-02-06T03:41:34.125067",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Supply - Trombay Power Plant - Fuel oil and diesel for power generation and plant maintenance operations."
+  },
+  {
+    "lead_id": "B7299A65709E",
+    "company_name": "Adani Power - Mundra",
+    "source_type": "tender",
+    "source_url": "https://www.nprocure.com/tender/APL2026209",
+    "products_recommended": [
+      "Fuel Oil"
+    ],
+    "product_confidence": {
+      "Fuel Oil": 1.0
+    },
+    "industry_sector": "energy",
+    "location": "Mundra",
+    "facility_type": "plant",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "fuel oil",
+      "power expansion",
+      "thermal plant"
+    ],
+    "urgency_score": 0.8,
+    "confidence_score": 1.0,
+    "overall_score": 0.9,
+    "title": "Fuel Oil for Plant Expansion - Mundra",
+    "description": "Large-scale fuel oil supply for Adani Power plant expansion project.",
+    "deadline": "2026-02-28T08:41:34.125078",
+    "estimated_value": 350000000.0,
+    "tender_id": "APL2026209",
+    "next_action": "High-priority: Engage with expansion project team for Fuel Oil supply opportunity",
+    "discovery_date": "2026-02-05T18:41:34.125079",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Oil for Plant Expansion - Mundra - Large-scale fuel oil supply for Adani Power plant expansion project."
+  },
+  {
+    "lead_id": "4E0835B60EE6",
+    "company_name": "Reliance Power",
+    "source_type": "tender",
+    "source_url": "https://scm.ril.com/tender/RPL2026215",
+    "products_recommended": [
+      "Fuel Oil",
+      "Diesel"
+    ],
+    "product_confidence": {
+      "Fuel Oil": 0.95,
+      "Diesel": 0.9
+    },
+    "industry_sector": "energy",
+    "location": "Sasan",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "fuel oil",
+      "diesel",
+      "power generation"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.93,
+    "overall_score": 0.72,
+    "title": "Fuel Supply - Sasan Power Plant",
+    "description": "Fuel oil and diesel for power generation operations at Sasan ultra mega power plant.",
+    "deadline": "2026-03-20T08:41:34.125088",
+    "estimated_value": 280000000.0,
+    "tender_id": "RPL2026215",
+    "next_action": "Contact procurement team to discuss Fuel Oil, Diesel supply requirements",
+    "discovery_date": "2026-02-07T19:41:34.125089",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Supply - Sasan Power Plant - Fuel oil and diesel for power generation operations at Sasan ultra mega power plant."
+  },
+  {
+    "lead_id": "A31ADDF93444",
+    "company_name": "BHEL - Haridwar",
+    "source_type": "tender",
+    "source_url": "https://bhel.abcprocure.com/tender/BHEL2026221",
+    "products_recommended": [
+      "Diesel",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 0.9,
+      "Lubricants": 0.85
+    },
+    "industry_sector": "energy",
+    "location": "Haridwar",
+    "facility_type": "plant",
+    "signals": [
+      "procurement",
+      "maintenance"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "lubricants",
+      "manufacturing"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 0.88,
+    "overall_score": 0.75,
+    "title": "Fuel and Lubricants - BHEL Manufacturing",
+    "description": "Diesel and lubricants for heavy equipment and manufacturing operations.",
+    "deadline": "2026-03-25T08:41:34.125098",
+    "estimated_value": 55000000.0,
+    "tender_id": "BHEL2026221",
+    "next_action": "Contact procurement team to discuss Diesel, Lubricants supply requirements",
+    "discovery_date": "2026-02-07T14:41:34.125099",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel and Lubricants - BHEL Manufacturing - Diesel and lubricants for heavy equipment and manufacturing operations."
+  },
+  {
+    "lead_id": "E94349B563E4",
+    "company_name": "GAIL India Limited",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/GAIL2026227",
+    "products_recommended": [
+      "Diesel",
+      "LNG"
+    ],
+    "product_confidence": {
+      "Diesel": 0.85,
+      "LNG": 0.95
+    },
+    "industry_sector": "energy",
+    "location": "Multiple Locations",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "lng",
+      "pipeline operations"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.9,
+    "overall_score": 0.71,
+    "title": "Fuel for Pipeline Operations - GAIL",
+    "description": "Diesel and LNG supply for gas pipeline operations and compression stations.",
+    "deadline": "2026-03-12T08:41:34.125110",
+    "estimated_value": 165000000.0,
+    "tender_id": "GAIL2026227",
+    "next_action": "Contact procurement team to discuss Diesel, LNG supply requirements",
+    "discovery_date": "2026-02-06T13:41:34.125111",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel for Pipeline Operations - GAIL - Diesel and LNG supply for gas pipeline operations and compression stations."
+  },
+  {
+    "lead_id": "307522FB038F",
+    "company_name": "Tata Steel - Jamshedpur",
+    "source_type": "tender",
+    "source_url": "https://vendorportal.jsw.in/tender/TSL2026233",
+    "products_recommended": [
+      "Diesel",
+      "Fuel Oil",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 0.9,
+      "Fuel Oil": 0.85,
+      "Lubricants": 0.8
+    },
+    "industry_sector": "manufacturing",
+    "location": "Jamshedpur",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "fuel oil",
+      "lubricants",
+      "steel plant"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.85,
+    "overall_score": 0.71,
+    "title": "Industrial Fuel Supply - Tata Steel",
+    "description": "Comprehensive fuel and lubricant supply for steel manufacturing operations.",
+    "deadline": "2026-03-10T08:41:34.125118",
+    "estimated_value": 195000000.0,
+    "tender_id": "TSL2026233",
+    "next_action": "Contact procurement team to discuss Diesel, Fuel Oil, Lubricants supply requirements",
+    "discovery_date": "2026-02-07T00:41:34.125119",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Industrial Fuel Supply - Tata Steel - Comprehensive fuel and lubricant supply for steel manufacturing operations."
+  },
+  {
+    "lead_id": "2AE35D1F8E41",
+    "company_name": "JSW Steel - Vijayanagar",
+    "source_type": "tender",
+    "source_url": "https://vendorportal.jsw.in/tender/JSW2026239",
+    "products_recommended": [
+      "Diesel",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "Lubricants": 0.9
+    },
+    "industry_sector": "manufacturing",
+    "location": "Karnataka",
+    "facility_type": "plant",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "lubricants",
+      "steel manufacturing",
+      "expansion"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.95,
+    "overall_score": 0.84,
+    "title": "Fuel for Plant Expansion - JSW Steel",
+    "description": "Diesel and lubricants for expanded steel manufacturing capacity.",
+    "deadline": "2026-03-05T08:41:34.125127",
+    "estimated_value": 175000000.0,
+    "tender_id": "JSW2026239",
+    "next_action": "High-priority: Engage with expansion project team for Diesel, Lubricants supply opportunity",
+    "discovery_date": "2026-02-07T15:41:34.125127",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel for Plant Expansion - JSW Steel - Diesel and lubricants for expanded steel manufacturing capacity."
+  },
+  {
+    "lead_id": "FDEBC10B290E",
+    "company_name": "Larsen & Toubro - Heavy Engineering",
+    "source_type": "tender",
+    "source_url": "https://tender247.com/tender/LNT2026245",
+    "products_recommended": [
+      "Diesel",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 0.9,
+      "Lubricants": 0.85
+    },
+    "industry_sector": "manufacturing",
+    "location": "Hazira",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "lubricants",
+      "heavy engineering"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.88,
+    "overall_score": 0.7,
+    "title": "Industrial Fuel - L&T Heavy Engineering",
+    "description": "Diesel and lubricants for heavy engineering and manufacturing equipment.",
+    "deadline": "2026-03-20T08:41:34.125134",
+    "estimated_value": 85000000.0,
+    "tender_id": "LNT2026245",
+    "next_action": "Contact procurement team to discuss Diesel, Lubricants supply requirements",
+    "discovery_date": "2026-02-06T20:41:34.125135",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Industrial Fuel - L&T Heavy Engineering - Diesel and lubricants for heavy engineering and manufacturing equipment."
+  },
+  {
+    "lead_id": "45374939DE05",
+    "company_name": "Hindalco Industries",
+    "source_type": "tender",
+    "source_url": "https://bidassist.com/tender/HND2026251",
+    "products_recommended": [
+      "Diesel",
+      "Fuel Oil"
+    ],
+    "product_confidence": {
+      "Diesel": 0.85,
+      "Fuel Oil": 0.9
+    },
+    "industry_sector": "manufacturing",
+    "location": "Odisha",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "fuel oil",
+      "aluminum plant"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.88,
+    "overall_score": 0.7,
+    "title": "Fuel Supply - Aluminum Plant",
+    "description": "Diesel and fuel oil for aluminum smelting and manufacturing operations.",
+    "deadline": "2026-03-15T08:41:34.125142",
+    "estimated_value": 145000000.0,
+    "tender_id": "HND2026251",
+    "next_action": "Contact procurement team to discuss Diesel, Fuel Oil supply requirements",
+    "discovery_date": "2026-02-06T16:41:34.125142",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Supply - Aluminum Plant - Diesel and fuel oil for aluminum smelting and manufacturing operations."
+  },
+  {
+    "lead_id": "6E061982C54F",
+    "company_name": "Ultratech Cement",
+    "source_type": "tender",
+    "source_url": "https://tender247.com/tender/UTC2026257",
+    "products_recommended": [
+      "Diesel",
+      "Fuel Oil"
+    ],
+    "product_confidence": {
+      "Diesel": 0.9,
+      "Fuel Oil": 0.85
+    },
+    "industry_sector": "manufacturing",
+    "location": "Rajasthan",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "fuel oil",
+      "cement plant"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 0.88,
+    "overall_score": 0.67,
+    "title": "Fuel for Cement Manufacturing",
+    "description": "Diesel and fuel oil supply for cement kiln operations and plant equipment.",
+    "deadline": "2026-03-25T08:41:34.125153",
+    "estimated_value": 125000000.0,
+    "tender_id": "UTC2026257",
+    "next_action": "Contact procurement team to discuss Diesel, Fuel Oil supply requirements",
+    "discovery_date": "2026-02-06T12:41:34.125154",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel for Cement Manufacturing - Diesel and fuel oil supply for cement kiln operations and plant equipment."
+  },
+  {
+    "lead_id": "3B13EE9BD0A0",
+    "company_name": "Mahindra & Mahindra - Manufacturing",
+    "source_type": "tender",
+    "source_url": "https://tendersontime.com/tender/MNM2026263",
+    "products_recommended": [
+      "Diesel",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 0.85,
+      "Lubricants": 0.9
+    },
+    "industry_sector": "automotive",
+    "location": "Nashik",
+    "facility_type": "plant",
+    "signals": [
+      "procurement",
+      "maintenance"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "lubricants",
+      "automotive manufacturing"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.88,
+    "overall_score": 0.78,
+    "title": "Fuel and Lubricants - Auto Manufacturing",
+    "description": "Diesel and lubricants for automotive manufacturing plant operations.",
+    "deadline": "2026-03-18T08:41:34.125166",
+    "estimated_value": 68000000.0,
+    "tender_id": "MNM2026263",
+    "next_action": "Contact procurement team to discuss Diesel, Lubricants supply requirements",
+    "discovery_date": "2026-02-05T18:41:34.125166",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel and Lubricants - Auto Manufacturing - Diesel and lubricants for automotive manufacturing plant operations."
+  },
+  {
+    "lead_id": "1D46570D4F4D",
+    "company_name": "Indian Oil Corporation - Mathura Refinery",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/IOC2026269",
+    "products_recommended": [
+      "Diesel",
+      "Petrol",
+      "Lubricants"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "Petrol": 0.95,
+      "Lubricants": 0.85
+    },
+    "industry_sector": "energy",
+    "location": "Mathura",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "petrol",
+      "lubricants",
+      "refinery"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.93,
+    "overall_score": 0.73,
+    "title": "Fuel Products for Refinery Operations",
+    "description": "Diesel, petrol and lubricants for refinery operations and internal consumption.",
+    "deadline": "2026-03-15T08:41:34.125173",
+    "estimated_value": 185000000.0,
+    "tender_id": "IOC2026269",
+    "next_action": "Contact procurement team to discuss Diesel, Petrol, Lubricants supply requirements",
+    "discovery_date": "2026-02-05T11:41:34.125174",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Products for Refinery Operations - Diesel, petrol and lubricants for refinery operations and internal consumption."
+  },
+  {
+    "lead_id": "FE92AF2AD926",
+    "company_name": "Bharat Petroleum - Mumbai Refinery",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/BPC2026275",
+    "products_recommended": [
+      "Diesel",
+      "Fuel Oil"
+    ],
+    "product_confidence": {
+      "Diesel": 0.95,
+      "Fuel Oil": 0.9
+    },
+    "industry_sector": "energy",
+    "location": "Mumbai",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "fuel oil",
+      "refinery operations"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.93,
+    "overall_score": 0.72,
+    "title": "Fuel Supply - Mumbai Refinery",
+    "description": "Diesel and fuel oil for refinery processing and equipment operations.",
+    "deadline": "2026-03-20T08:41:34.125180",
+    "estimated_value": 165000000.0,
+    "tender_id": "BPC2026275",
+    "next_action": "Contact procurement team to discuss Diesel, Fuel Oil supply requirements",
+    "discovery_date": "2026-02-06T12:41:34.125181",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Supply - Mumbai Refinery - Diesel and fuel oil for refinery processing and equipment operations."
+  },
+  {
+    "lead_id": "B06839EC40C6",
+    "company_name": "Hindustan Petroleum - Visakh Refinery",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/HPC2026281",
+    "products_recommended": [
+      "Diesel",
+      "LPG"
+    ],
+    "product_confidence": {
+      "Diesel": 0.9,
+      "LPG": 0.85
+    },
+    "industry_sector": "energy",
+    "location": "Visakhapatnam",
+    "facility_type": "plant",
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "lpg",
+      "refinery"
+    ],
+    "urgency_score": 0.5,
+    "confidence_score": 0.88,
+    "overall_score": 0.67,
+    "title": "Fuel Products - Visakh Refinery",
+    "description": "Diesel and LPG for refinery operations and process requirements.",
+    "deadline": "2026-03-22T08:41:34.125187",
+    "estimated_value": 145000000.0,
+    "tender_id": "HPC2026281",
+    "next_action": "Contact procurement team to discuss Diesel, LPG supply requirements",
+    "discovery_date": "2026-02-05T08:41:34.125188",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel Products - Visakh Refinery - Diesel and LPG for refinery operations and process requirements."
+  },
+  {
+    "lead_id": "FCFDC1FA2A73",
+    "company_name": "Reliance Industries - Jamnagar Refinery",
+    "source_type": "tender",
+    "source_url": "https://scm.ril.com/tender/RIL2026287",
+    "products_recommended": [
+      "Diesel",
+      "Fuel Oil",
+      "Petrol"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "Fuel Oil": 0.95,
+      "Petrol": 0.9
+    },
+    "industry_sector": "energy",
+    "location": "Jamnagar",
+    "facility_type": "plant",
+    "signals": [
+      "procurement",
+      "expansion"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "diesel",
+      "fuel oil",
+      "petrol",
+      "refinery expansion"
+    ],
+    "urgency_score": 0.7,
+    "confidence_score": 0.95,
+    "overall_score": 0.85,
+    "title": "Major Fuel Supply - Jamnagar Complex",
+    "description": "Large-scale fuel supply for world's largest refinery complex operations and expansion.",
+    "deadline": "2026-03-02T08:41:34.125197",
+    "estimated_value": 450000000.0,
+    "tender_id": "RIL2026287",
+    "next_action": "High-priority: Engage with expansion project team for Diesel, Fuel Oil, Petrol supply opportunity",
+    "discovery_date": "2026-02-06T02:41:34.125198",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Major Fuel Supply - Jamnagar Complex - Large-scale fuel supply for world's largest refinery complex operations and expansion."
+  },
+  {
+    "lead_id": "F52EFD17A24B",
+    "company_name": "ONGC - Offshore Operations",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/ONGC2026293",
+    "products_recommended": [
+      "Marine Bunker Fuels",
+      "Diesel",
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Marine Bunker Fuels": 0.95,
+      "Diesel": 0.9,
+      "Aviation Fuel": 0.85
+    },
+    "industry_sector": "energy",
+    "location": "Mumbai High",
+    "facility_type": "port",
+    "signals": [
+      "procurement",
+      "urgent"
+    ],
+    "signal_strength": "high",
+    "keywords_matched": [
+      "bunker fuel",
+      "diesel",
+      "aviation fuel",
+      "offshore"
+    ],
+    "urgency_score": 0.8,
+    "confidence_score": 0.9,
+    "overall_score": 0.85,
+    "title": "Multi-Fuel Supply - Offshore Operations",
+    "description": "Marine bunker fuel, diesel and aviation fuel for offshore oil platforms and vessels.",
+    "deadline": "2026-02-23T08:41:34.125205",
+    "estimated_value": 225000000.0,
+    "tender_id": "ONGC2026293",
+    "next_action": "URGENT: Contact procurement team immediately to discuss Marine Bunker Fuels, Diesel, Aviation Fuel requirements",
+    "discovery_date": "2026-02-07T20:41:34.125205",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Multi-Fuel Supply - Offshore Operations - Marine bunker fuel, diesel and aviation fuel for offshore oil platforms and vessels."
+  },
+  {
+    "lead_id": "BA1F083B6B8D",
+    "company_name": "Oil India Limited",
+    "source_type": "tender",
+    "source_url": "https://eprocure.gov.in/tender/OIL2026299",
+    "products_recommended": [
+      "Diesel",
+      "Aviation Fuel"
+    ],
+    "product_confidence": {
+      "Diesel": 1.0,
+      "Aviation Fuel": 0.9
+    },
+    "industry_sector": "energy",
+    "location": "Assam",
+    "facility_type": null,
+    "signals": [
+      "procurement"
+    ],
+    "signal_strength": "medium",
+    "keywords_matched": [
+      "diesel",
+      "aviation fuel",
+      "oil field operations"
+    ],
+    "urgency_score": 0.6,
+    "confidence_score": 0.95,
+    "overall_score": 0.73,
+    "title": "Fuel for Oil Field Operations",
+    "description": "Diesel and aviation fuel for oil exploration and extraction operations in Northeast.",
+    "deadline": "2026-03-13T08:41:34.125212",
+    "estimated_value": 135000000.0,
+    "tender_id": "OIL2026299",
+    "next_action": "Contact procurement team to discuss Diesel, Aviation Fuel supply requirements",
+    "discovery_date": "2026-02-07T09:41:34.125212",
+    "extraction_method": "Tender Parser",
+    "raw_context": "Fuel for Oil Field Operations - Diesel and aviation fuel for oil exploration and extraction operations in Northeast."
+  }
+]
